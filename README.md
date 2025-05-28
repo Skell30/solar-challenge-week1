@@ -38,3 +38,5 @@ solar-challenge-week1/
 ## 🔄 9. **Push and Create Pull Request**
 ```bash
 git push origin setup-task
+
+Initial environment setup is complete.
